@@ -1,0 +1,8 @@
+flask
+flask-jwt-extended
+flask-bcrypt
+email-validator
+cloudinary
+flask-cors
+flask-migrate
+flask-mail
